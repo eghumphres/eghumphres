@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is my personal repository.  I am currently studying CIS at the University of North Alabama.
+My name is Ethan Humphres.  This is my personal repository.  I am currently studying CIS at the University of North Alabama.
